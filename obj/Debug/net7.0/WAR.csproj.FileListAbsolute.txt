@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\WAR\bin\Debug\net7.0\WAR.exe
+C:\Users\disrct\Desktop\WAR\bin\Debug\net7.0\WAR.deps.json
+C:\Users\disrct\Desktop\WAR\bin\Debug\net7.0\WAR.runtimeconfig.json
+C:\Users\disrct\Desktop\WAR\bin\Debug\net7.0\WAR.dll
+C:\Users\disrct\Desktop\WAR\bin\Debug\net7.0\WAR.pdb
+C:\Users\disrct\Desktop\WAR\obj\Debug\net7.0\WAR.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\WAR\obj\Debug\net7.0\WAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\WAR\obj\Debug\net7.0\WAR.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\WAR\obj\Debug\net7.0\WAR.AssemblyInfo.cs
+C:\Users\disrct\Desktop\WAR\obj\Debug\net7.0\WAR.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\WAR\obj\Debug\net7.0\WAR.dll
+C:\Users\disrct\Desktop\WAR\obj\Debug\net7.0\refint\WAR.dll
+C:\Users\disrct\Desktop\WAR\obj\Debug\net7.0\WAR.pdb
+C:\Users\disrct\Desktop\WAR\obj\Debug\net7.0\WAR.genruntimeconfig.cache
+C:\Users\disrct\Desktop\WAR\obj\Debug\net7.0\ref\WAR.dll
